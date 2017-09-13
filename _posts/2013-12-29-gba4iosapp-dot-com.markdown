@@ -2,7 +2,7 @@
 layout: post
 title: "GBA4iOSApp.com, Current Progress, and Future of GBA4iOS"
 date: 2013-12-29 16:00
-comments: false
+comments: true
 category: blog
 author: riley
 tag:
