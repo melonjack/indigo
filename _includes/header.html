@@ -4,6 +4,10 @@
    or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
 
+{% if page.title == "About" %}
+{% assign showMinimalHeader = true %}
+{% endif %}
+
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
@@ -20,6 +24,13 @@
         <h2 class="description">{{ site.bio }}</h2>
 
         {% include social-links.html %}
+    </header>
+{% endif %}
+
+{% if showMinimalHeader == true %}
+    <header class="header-home">
+        <h1 class="title">{{ site.name }}</h1>
+        <h2 class="description">{{ site.bio }}</h2>
     </header>
 {% endif %}
 
