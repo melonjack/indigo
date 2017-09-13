@@ -18,17 +18,13 @@ That's not the point of this post, however. This post is for those of you who ar
 
 I've mentioned this on Twitter, but I've never truly gone into detail about it. In 2.0, you will be able to download custom skins to GBA4iOS, and switch between them whenever you want. Unlike most implementations of a feature like this, the button layout coordinates are right inside the skin file, so you don't need to import skins then configure the button layout to match it; in other words, it just works. There is no limit to the number of skins you can install, and they can be GBA skins, GBC skins, iPhone skins, iPad skins, portrait skins, landscape skins, and of course any mixture of these. [Paul Thorsen](http://twitter.com/pau1thor), the graphic designer for GBA4iOS, has already come up with some fantastic designs, and they will all be available to download in-app from day one. Here are just a few of the portrait iPhone skins:
 
+![Mario + Luigi](../../../../../images/posts/skins/mario+luigi.png)
 
-{% img ../../../../../images/posts/skins/mario+luigi.png 320 240 %}  
+![Retro](../../../../../images/posts/skins/retro.png)
 
+![Squirtle](../../../../../images/posts/skins/squirtle.png)
 
-{% img ../../../../../images/posts/skins/retro.png 320 240 %}  
-
-
-{% img ../../../../../images/posts/skins/squirtle.png 320 240 %}  
-
-
-{% img ../../../../../images/posts/skins/wood.png 320 240 %}  
+![Wood](../../../../../images/posts/skins/wood.png)
 
 As already mentioned, you're not limited to the skins provided in GBA4iOS to download; anyone can create .gbaskin or .gbcskin files and distribute them for others to download and Open In… GBA4iOS, or drag them in via iTunes. Once GBA4iOS 2.0 has been released, I'll write up a tutorial on how to make them (for both Mac and PC), but in the meantime [Mithical](http://twitter.com/mithical), one of the beta testers for GBA4iOS, has posted some of his own designs to his [GBA4iOS beta testing blog](http://gba4ios.mithical.com). Even if you're not interested in the skins, there's some really interesting information there that I haven't mentioned on this site, so you should definitely check it out. 
 
@@ -37,19 +33,19 @@ As already mentioned, you're not limited to the skins provided in GBA4iOS to dow
 An often requested feature, you can now change the opacity of the controller, allowing you to find your own balance between visibility of the game and visibility of the controls. Because not all skins would benefit from being translucent, it's up to the skin designer to flag the skin as such; only then will the skin respond to changes in opacity. For example, the default landscape skin is a simple overlay of buttons on top of the game screen. This is a perfect use case for translucency, so it has been enabled for the skin. However, most portrait skins and some landscape skins are designed to not cover the screen, and as such shouldn't be translucent. Here are some examples of the new customizable opacity:
 
 100%
-{% img ../../../../../images/posts/skins/opacity100.png 320 240 %}
+![Opacity 100%](../../../../../images/posts/skins/opacity100.png)
 
 
 50%
-{% img ../../../../../images/posts/skins/opacity50.png 320 240 %}
+![Opacity 50%](../../../../../images/posts/skins/opacity50.png)
 
 
 20%
-{% img ../../../../../images/posts/skins/opacity20.png 320 240 %}
+![Opacity 20%](../../../../../images/posts/skins/opacity20.png)
 
 
 And even 0% if you choose.
-{% img ../../../../../images/posts/skins/opacity0.png 320 240 %}
+![Opacity 0%](../../../../../images/posts/skins/opacity0.png)
 
 
 ### **Important Change** ###

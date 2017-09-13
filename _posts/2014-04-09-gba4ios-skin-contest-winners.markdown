@@ -9,7 +9,7 @@ categories:
 - GBA4iOS
 ---
 
-[Just over two weeks ago](http://rileytestut.com/blog/2014/03/23/gba4ios-custom-skin-tutorial/), I (finally) wrote up the complete instructions on how to create custom GBA4iOS controller skins. One of the driving forces behind custom skins was to see what ideas people could come up with, so after posting the instructions I mentioned a competition where everyone could submit their designs, and the best ones would be featured in GBA4iOS for download.
+[Just over two weeks ago][1], I (finally) wrote up the complete instructions on how to create custom GBA4iOS controller skins. One of the driving forces behind custom skins was to see what ideas people could come up with, so after posting the instructions I mentioned a competition where everyone could submit their designs, and the best ones would be featured in GBA4iOS for download.
 
 Well, that competition has ended, and here are the results (ranked in no particular order.) All the skins you see below are now available for download within GBA4iOS, so if you see one you like, make sure to go download it!
 
@@ -18,9 +18,9 @@ Well, that competition has ended, and here are the results (ranked in no particu
 ## iPhone Black
 by Nicholas Phan
 
-{% img ../../../../../images/posts/skins/contest/iphone_black-portrait.png 320 240 iPhone Black Portrait %}  
+![iPhone Black Portrait](../../../../../images/posts/skins/contest/iphone\_black-portrait.png)
 
-{% img ../../../../../images/posts/skins/contest/iphone_black-landscape.png 568 320 iPhone Black Landscape %}  
+![iPhone Black Landscape](../../../../../images/posts/skins/contest/iphone\_black-landscape.png)
 
 <br/>
 <br/>
@@ -28,19 +28,19 @@ by Nicholas Phan
 ## Advance: Midnight Blue
 by Brad Linder  
 
-{% img ../../../../../images/posts/skins/contest/midnight_blue.png 568 320 Advance: Midnight Blue %}  
+![Advance: Midnight Blue](../../../../../images/posts/skins/contest/midnight\_blue.png)
 
 <br/>
 <br/>
 
 ## Oracle of Ages
-by Dario Sepulveda (for the Game Boy Advance version of this skin, and other fantastic custom skins, check out [GBA4iOSkins.com](http://www.gba4ioskins.com/))!  
+by Dario Sepulveda (for the Game Boy Advance version of this skin, and other fantastic custom skins, check out [GBA4iOSkins.com][2])!  
 
-{% img ../../../../../images/posts/skins/contest/zelda_portrait-iphone.png 320 240 Oracle of Ages Portrait iPhone %}  
+![Oracle of Ages Portrait](../../../../../images/posts/skins/contest/zelda\_portrait-iphone.png)
 
-{% img ../../../../../images/posts/skins/contest/zelda_portrait-ipad.png 384 512 Oracle of Ages Portrait iPad %}  
+![Oracle of Ages Portrait iPad](../../../../../images/posts/skins/contest/zelda\_portrait-ipad.png)
 
-{% img ../../../../../images/posts/skins/contest/zelda_landscape.png 568 320 Oracle of Ages Landscape %} 
+![Oracle of Ages Landscape](../../../../../images/posts/skins/contest/zelda\_landscape.png)
 
 <br/>
 <br/>
@@ -48,7 +48,7 @@ by Dario Sepulveda (for the Game Boy Advance version of this skin, and other fan
 ## Doge
 by Chris Nutter  
 
-{% img ../../../../../images/posts/skins/contest/doge.png 320 240 Doge %}  
+![Doge](../../../../../images/posts/skins/contest/doge.png)
 
 <br/>
 <br/>
@@ -56,7 +56,7 @@ by Chris Nutter
 ## Praise Helix
 by Alex Hayes  
 
-{% img ../../../../../images/posts/skins/contest/praise_helix.png 320 240 Praise Helix %}  
+![Praise Helix](../../../../../images/posts/skins/contest/praise\_helix.png)
 
 <br/>
 <br/>
@@ -64,9 +64,9 @@ by Alex Hayes
 ## Simpsons
 by SiggiBartman  
 
-{% img ../../../../../images/posts/skins/contest/simpsons-portrait.png 320 240 Simpsons Portrait %}  
+![Simpsons Portrait](../../../../../images/posts/skins/contest/simpsons-portrait.png)
 
-{% img ../../../../../images/posts/skins/contest/simpsons-landscape.png 568 320 Simpsons Landscape %}
+![Simpsons Landscape](../../../../../images/posts/skins/contest/simpsons-landscape.png)
 
 <br/>
 <br/>
@@ -74,7 +74,7 @@ by SiggiBartman
 ## SP: Platinum
 by Brad Linder  
 
-{% img ../../../../../images/posts/skins/contest/platinum.png 320 240 SP: Platinum %}  
+![SP: Platinum](../../../../../images/posts/skins/contest/platinum.png)
 
 <br/>
 <br/> 
@@ -82,11 +82,15 @@ by Brad Linder
 ## Epic Skin
 by Noah Overcash  
 
-{% img ../../../../../images/posts/skins/contest/epic_skin.png 320 240 Epic Skin %}  
+![Epic Skin](../../../../../images/posts/skins/contest/epic\_skin.png)
 
 
 ## Wrap-Up
 
-Thanks to everyone who entered the contest; it was awesome to see all your ideas! Remember, if you didn't get picked this time, you can always submit to [GBA4iOSkins.com](http://www.gba4ioskins.com/), and they may host your skin for you so others can download it. And for those select few who were chosen, congratulations; you earned it!
+Thanks to everyone who entered the contest; it was awesome to see all your ideas! Remember, if you didn't get picked this time, you can always submit to [GBA4iOSkins.com][3], and they may host your skin for you so others can download it. And for those select few who were chosen, congratulations; you earned it!
 
 Hopefully, these skins will inspire you all to create even more skins of your own, and I can't wait to see what you come up with!
+
+[1]:	http://rileytestut.com/blog/2014/03/23/gba4ios-custom-skin-tutorial/
+[2]:	http://www.gba4ioskins.com/
+[3]:	http://www.gba4ioskins.com/

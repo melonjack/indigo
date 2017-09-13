@@ -12,7 +12,7 @@ As you may know if you've been following me on Twitter, I've been on vacation in
 
 Last week, [I said my goal was to be finished with everything in the pause menu](http://rileytestut.com/blog/2013/08/12/gba4ios-2-dot-0-update-number-1/), so that's exactly what I did. As a recap, here's what the pause menu will look like:
 
-{% img ../../../../../images/posts/Pause_Menu.PNG 320 568 %}
+![Pause Menu](./../../../../images/posts/Pause_Menu.PNG)
 
 While I may add features to the menu, these current ones will all definitely be in the release of 2.0. Most of these have been in previous versions of GBA4iOS, but they've all been tweaked enough that they're worth detailing again.
 
@@ -30,7 +30,7 @@ The ability to speed up the ROM never really had an official name in the old ver
 
 Again, the basic functionalities of these two options remain the same, but I've added some features that should make them much better to use. See if you can spot all that's new in this screenshot:
 
-{% img ../../../../../images/posts/Save_States_Preview.PNG 320 568 %}
+![Save States Preview](../../../../../images/posts/Save_States_Preview.PNG)
 
 Awesome right? But just in case anything needs clarification, here's all that's new:  
 
@@ -42,7 +42,7 @@ Awesome right? But just in case anything needs clarification, here's all that's 
 
 Ah cheats, the number one most requested feature since version 1.0. Yes, finally, they are coming in 2.0, and they'll be incredibly easy to use. There will be no need for a master code, and you won't have to split up multi-line codes into multiple cheats. Also, you'll be able to add, remove, enable, and disable cheats on device without having to exit the ROM. Just be wary of using cheats; games were not made to be used with them, and may have unintended side effects as a result. If you mess up a game with cheats, there is nothing I can do, so just be careful.
 
-{% img ../../../../../images/posts/Cheats_Preview.PNG 320 568 %}
+![Cheats Preview](../../../../../images/posts/Cheats_Preview.PNG)
 
 ### **Sustain Button** ###
 
@@ -52,7 +52,7 @@ This is actually a feature I made for SNES4iOS, but it never really worked too w
 
 As I mentioned yesterday on Twitter, if you're playing one of the main Pokemon games you'll have another option in the menu:
 
-{% img http://rileytestut.com/images/posts/Event_DIstribution_Preview.png 320 568 %}
+![Event Distribution Preview](http://rileytestut.com/images/posts/Event_DIstribution_Preview.png)
 
 This is one feature you just *have* to try out, so I'm not planning on giving too much away until 2.0 is released. However, I will say a few things:
 

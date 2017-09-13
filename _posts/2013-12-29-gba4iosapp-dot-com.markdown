@@ -31,11 +31,11 @@ But how exactly does it work?
 
 Basically, from GBA4iOS, you can turn on Dropbox Sync, which will begin an initial sync. This initial sync is used to compare the files you have locally with any that already exist in Dropbox, and then uploads/downloads whatever is needed to keep everything in sync. However, there is one safety precaution: if there is already a save file in Dropbox for the game you are trying to sync, as well as a local save file, the initial sync will mark it as conflicted, and will turn off syncing for that particular game. Why mark it as conflicted? Because for the initial sync, GBA4iOS has no way of knowing whether you'd prefer to sync your local save or Dropbox save, so it leaves it up to you to decide. After you decide, GBA4iOS will sync data for that game normally again.
 
-{% img ../../../../../images/posts/features/dropbox_sync_overview.png 320 568 Dropbox Sync %}
+![Dropbox Sync](../../../../../images/posts/features/dropbox_sync_overview.png)
 
 How you do resolve the conflict though? From the Dropbox Sync menu, select the game you want to no longer be conflicted. You'll be presented with a detailed syncing view of the game, showing your local save states and any you have in Dropbox. To turn syncing back on, you'll need to select either your local save or any of your Dropbox saves to sync to all your devices. Once you've selected the save you want, toggle the switch at the top to ON, and syncing will resume normally for the game.
 
-{% img ../../../../../images/posts/features/dropbox_sync_detail.png 320 568 Dropbox Sync %}
+![Dropbox Sync](../../../../../images/posts/features/dropbox_sync_detail.png)
 
 In addition to save files, cheats and save states are also synced across your devices. This is especially convenient when you get a new device; turn on Dropbox Sync, and just like that you'll have all your saves, save states, and cheats. Plus, at any time you can access these files from the Dropbox folder on your computer, if you want to use them on a desktop emulator (such as the incredibly awesome [Open Emu for Mac](http://openemu.org)). 
 
@@ -43,15 +43,15 @@ In addition to save files, cheats and save states are also synced across your de
 
 In the time since the last blog post, two iOS 7 controllers were finally released: the [Moga Ace POWER Controller](http://www.mogaanywhere.com/ace/) and the [Logitech Powershell Controller + Battery](http://gaming.logitech.com/en-us/product/powershell-controller-and-battery). This meant I could finally add the code needed to get everything working, and now that I've finished, I can say that playing Gameboy games using these controllers is fantastic. However, there is one problem: all iOS 7 controllers have their A and B buttons flipped compare to a real Gameboy Advance. Typically, the A button is located above and to the right of the B button, like in the default controller skin:
 
-{% img ../../../../../images/posts/features/wario_ware_twisted.png 320 568 Wario Ware Twisted %}
+![Wario Ware: Twisted](../../../../../images/posts/features/wario_ware_twisted.png)
 
 On iOS 7 controllers, A is the button on the bottom and B is to the top right. To fix this, there is a menu in GBA4iOS that allows you to customize what each of the lettered buttons does by tapping each one individually and selecting from a list of actions, or by touching and dragging the button actions around. Here are the default button mappings:
 
-{% img ../../../../../images/posts/features/external_controller_default.png 320 568 iOS 7 Controller Customization %}
+![iOS 7 Controller Customization](../../../../../images/posts/features/external_controller_default.png)
 
 However, to make the controls feel more akin to a real Gameboy Advance, I've modified these controls for my personal use:
 
-{% img ../../../../../images/posts/features/external_controller_customized.png 320 568 iOS 7 Controller Customization %}
+![iOS 7 Controller Customization](../../../../../images/posts/features/external_controller_customized.png)
 
 As you can see, I've also mapped the L2 and R2 buttons to Sustain Button and Fast Forward, respectively. This is one of the benefits of having a controller with the extended button set, such as the Moga Ace POWER. Gameboy Advance games only use one set of shoulder buttons, so while by default GBA4iOS uses the second set to act as another pair of L and R buttons, I'd definitely recommend using them to perform the actions I've selected. This is especially convenient because when using Fast Forward via the controller, it starts fast forwarding when you press down and stops when you lift up, similar to how desktop emulators do it.
 
@@ -60,12 +60,12 @@ This is a rather new addition to GBA4iOS, as it was only recently suggested to m
 
 As mentioned above, this allows GBA4iOS to work hand in hand with [Launch Center Pro](https://itunes.apple.com/us/app/launch-center-pro/id532016360?mt=8), an app used to launch other apps and perform actions. Since the URL scheme allows you to launch any game you have downloaded, you can create a folder in the app and use it as an alternative to the GBA4iOS game launcher. Even better, using [Apple Configurator](https://itunes.apple.com/us/app/apple-configurator/id434433123?mt=12) or something similar, you can add Web Clips to your actual home screen you can tap to launch games. Personally, I have one set up to launch Pokemon Emerald.
 
-{% img ../../../../../images/posts/features/gba4ios_web_clip.png 320 568 GBA4iOS Web Clip %}
+![GBA4iOS Web Clip](../../../../../images/posts/features/gba4ios_web_clip.png)
 
 ### **Surprise: Wario Ware Twisted support!** ###
 Well, I kinda spoiled the surprise [yesterday on Twitter](https://twitter.com/rileytestut/status/417105951775133698), and  again with the screenshot of the game earlier in this post, but a brand new feature coming to GBA4iOS 2.0 is support for Wario Ware Twisted. While technically the game has always run, it's been impossible to play since it requires use of an external hardware motion detector. Many of you have asked for the ability to use the iPhone's motion sensors to emulate this hardware adapter, and so 2.0 will do exactly this. It's actually quite fun to play the game on an iPhone, since it feels like an actual iPhone game. So if you're a big Wario Ware fan, be excited!
 
-{% img ../../../../../images/posts/features/wario_ware_twisted_shave.png 320 568 Wario Ware Twisted %}
+![Wario Ware: Twisted](../../../../../images/posts/features/wario_ware_twisted_shave.png)
 
 ## Future of GBA4iOS ##
 

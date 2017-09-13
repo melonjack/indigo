@@ -28,7 +28,7 @@ So far, I've implemented the main core features that take the most time to imple
 
 As for what I'm currently working on, in the next week I plan on completing everything in this pause menu:  
 
-{% img ../../../../../images/posts/Pause_Menu.PNG 320 568 %}
+![../../../../../images/posts/Pause_Menu.PNG](Pause Menu)
 
 After that, I'll work on the remaining settings, such as dropbox sync. So there's still a lot to be done, but I can assure you I'm working as quickly as I can!
 

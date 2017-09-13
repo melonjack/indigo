@@ -22,7 +22,7 @@ I started by searching around for a good, open-source component that I could dro
 
 So that's what I did. Introducing RSTWebViewController:
 
-{% img center ../../../../../images/posts/RSTWebViewController_Preview.PNG RSTWebViewController %}
+![RSTWebViewController](../../../../../images/posts/RSTWebViewController_Preview.PNG)
 
 The design was heavily inspired by iOS 7 Mobile Safari, as you can clearly see. Of course, because it uses standard UIKit controls, you can change the tint color as you see fit (it's currently using GBA4iOS's purple theme).
 
