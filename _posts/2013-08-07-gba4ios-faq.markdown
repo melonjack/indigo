@@ -1,0 +1,19 @@
+---
+layout: post
+title: "GBA4iOS FAQ"
+date: 2013-08-07 23:42
+comments: false
+category: blog
+author: riley
+tag:
+- GBA4iOS
+- developer
+---
+
+Boy that's a lot of capital letters.
+
+As I mentioned in [my first blog post]({{ root_url }}/blog/2013/08/06/the-biggest-beta-test-in-ios-history/), trying to answer all the questions I get on Twitter is the equivalent of getting to Inbox Zero; for every question I answer, more and more pop up in its place. Thankfully, my good friend [Alyssa Surowiec](https://twitter.com/AlyssaSurowiec) has been helping me answer all of your questions, but even then it's not enough. 
+
+Now, I'm not saying I'm annoyed by your questions; in fact quite the opposite. I love how interested people are in GBA4iOS, which is why I decided to create [a new GBA4iOS FAQ]({{ root_url }}/gba4ios), accessible via the GBA4iOS link at the top of the page. Here, I'll collect and answer the questions you send me, so people don't have to look through my Twitter timeline for answers.
+
+For this first version, I've focused on what seem to be the most asked questions. Hopefully this should satisfy most of you, but if there's a question I didn't answer, feel free to contact me on Twitter or simply write a comment (if you want a more immediate answer, I'll probably have a better chance at seeing your comment). Just remember when writing comments to be respectful; I'm testing this system out, so don't make me regret it!
