@@ -1,0 +1,25 @@
+---
+layout: post
+title: "GBA4iOS 2.0: One Month Later"
+date: 2014-3-19 18:00
+comments: true
+categories: 
+- developer
+- GBA4iOS
+---
+
+Wow, what an incredible month it has been.
+
+One month ago today, GBA4iOS 2.0 was (finally) released. It was the culmination of over seven months of development and five months of testing, so you can bet I was nervous. Thankfully, the launch went extremely well, with a peak of 10,000 simultaneous downloads, resulting in just over one million downloads in the first twenty-four hours. Now, one month later, the download count has surpassed _four_ million.
+
+Four million. That's a crazy big number.
+
+<!-- more -->
+
+I'm astounded by the attention this update has received, and it was certainly a surreal experience to see my name pop up on sites such as [TouchArcade](http://toucharcade.com/2014/02/19/gba4ios-version-2-0-is-now-available/), [MacRumors](http://www.macrumors.com/2014/02/19/gba4ios-game-boy-emulator/), [CNET](http://news.cnet.com/8301-13579_3-57619139-37/the-best-game-boy-advance-emulator-for-ios-is-available-now-no-jailbreak-required/), and even [Time](http://techland.time.com/2014/02/25/ios-has-a-jailbreak-free-game-boy-emulator-and-its-better-than-ever/). However, this blog post was not written to recap what has happened in the past month, but rather to give a glimpse into what the future holds for GBA4iOS.
+
+Currently, I am working on a series of GBA4iOS blog posts, focusing on topics such as creating your own controller skins, or how to (properly) use cheats. I know lots of people have been asking how they can make controller skins, so I'm happy to say this post will be out first, and relatively soon. Another post I'm working on is all the hidden features of GBA4iOS. There are many features in GBA4iOS that most people don't know about it, so hopefully this post will teach you all something about the app you didn't already know.
+
+As for GBA4iOS itself, I'm currently working on version 2.0.2, which will fix more bugs and also allow skins to specify custom screen sizes, allowing you to stretch the game screen to full screen if you really wanted to. In addition, Paul and I have a number of events planned for the coming weeks, so make sure to give both [Paul](http://twitter.com/pau1thor) and [myself](http://twitter.com/rileytestut) a follow on Twitter if you don't want to miss them!
+
+To sum up, even though GBA4iOS 2.0 has been released, Paul and I are still working as hard as ever to provide the best Game Boy Advance emulation experience for your iOS device. Of course, there are still some surprises up our sleeves, but now is not the right time to reveal them. For now, just keep enjoying playing all your favorite Game Boy games again, and I'll keep you all updated with any future progress!
