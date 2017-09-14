@@ -7,7 +7,7 @@ category: blog
 author: riley
 tag:
 - developer
-- Delta
+- delta
 - beta testing
 ---
 
